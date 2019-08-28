@@ -1,5 +1,5 @@
 import HomePage from './pages/HomePage';
-import UsersListPage,{loadData} from './pages/UsersListPage'
+import UsersListPage from './pages/UsersListPage'
 
 export default [
 {
